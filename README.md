@@ -34,7 +34,7 @@ https://youtu.be/TX15ZyDugKc
 
 
 ### 💪 Deployed Addresses (Mantle Testnet)
-- DotMantle: [0x08e944b77a5b16b8c1bf58d1ff4e73b5667ff2af](https://explorer.testnet.mantle.xyz/tx/0x7b81c5d3516c0d7f2050e6c29eac3309cda945e123a254f49a318ed0852e1636)
+- DotMantle: [0x08e944b77a5b16b8c1bf58d1ff4e73b5667ff2af](https://explorer.testnet.mantle.xyz/address/0x08e944B77A5b16B8c1Bf58d1Ff4E73B5667ff2AF)
 
 
 ## Technology Stack & Tools
